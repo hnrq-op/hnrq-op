@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor backend apaixonado por construir sistemas robustos, escaláveis e de alta performance. Com formação técnica em Informática e atualmente graduando em **Tecnologia em Sistemas para Internet** no IF Goiano, tenho dedicado meu tempo a dominar o ecossistema Java, arquiteturas modernas e engenharia de software.
 
-Minha trajetória começou com fundamentos sólidos de hardware e lógica de programação. Hoje, transformo essa base prática no desenvolvimento de **APIs RESTful e ecossistemas distribuídos seguros e escaláveis** com Spring Boot, aplicando padrões de arquitetura, mensageria, controle de acesso, garantia de qualidade através de testes automatizados e práticas de **DevOps e Cloud Computing**.
+Minha trajetória começou com fundamentos sólidos de hardware e lógica de programação. Hoje, transformo essa base prática no desenvolvimento de **APIs RESTful e ecossistemas distribuídos seguros e escaláveis** com Spring Boot, aplicando padrões de arquitetura, mensageria com Kafka, controle de acesso centralizado com Keycloak, garantia de qualidade através de testes automatizados e práticas de **DevOps e Cloud Computing**.
 
 **Objetivo:** Conquistar minha primeira oportunidade como desenvolvedor Junior, adquirir experiência prática e evoluir continuamente na carreira.
 
@@ -31,10 +31,12 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Kafka](https://img.shields.io/badge/Spring%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Segurança & Autenticação
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-007ACC?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ### Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,26 +59,21 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 - ✅ Arquitetura Orientada a Eventos & Mensageria (Kafka)
 - ✅ Arquitetura em Camadas & Padrão DTO/DAO
 - ✅ Clean Code & Princípios SOLID
-- ✅ Segurança e Autenticação com OAuth2 / JWT (RBAC)
+- ✅ Segurança Avançada (Keycloak, OAuth2, JWT & RBAC)
 
 ---
 
-## 📚 Formação & Aprendizado
+## 📚 Formação & Certificações
 
 ### Educação Formal
 - **Técnico em Informática** - Concluído
 - **Graduação em Tecnologia em Sistemas para Internet** - IF Goiano (Conclusão prevista: 2028)
 
 ### Cursos & Certificações
+- 🎓 **Spring Boot + Kafka: Arquitetura Completa de Microservices** - Udemy (Ago. de 2026)
+  - Desenvolvimento e integração de sistemas distribuídos orientados a eventos
 - 🎓 **Spring Boot Expert: JPA, REST, JWT, OAuth2 com Docker e AWS** - Udemy
-  - Domínio de Spring Boot, autenticação com JWT e OAuth2
-  - Containerização com Docker
-  - Integração com AWS (EC2, RDS)
-
-### Tecnologias em Aprendizado
-- 🚀 Kubernetes (Orquestração de containers)
-- 🚀 Observabilidade e Monitoramento (Prometheus / Grafana)
-- 🚀 Certificações profissionais (AWS, Oracle)
+  - Domínio de Spring Boot, autenticação avançada, containerização e deploy na nuvem
 
 ---
 
@@ -84,7 +81,7 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 
 - 🤖 Utilizo IA como ferramenta de aprendizado e produtividade para acelerar entregas
 - 📊 Alta cobertura de testes unitários e de integração em projetos pessoais
-- 🔒 Sólido conhecimento em segurança (OAuth2, JWT e proteção de rotas)
+- 🔒 Sólido conhecimento em segurança e autenticação (Keycloak, OAuth2, JWT e proteção de rotas)
 - 🏗️ Experiência prática na construção de sistemas distribuídos e microsserviços
 - 📈 Mentalidade de aprendizado contínuo e busca por excelência técnica
 - 🐳 Experiência com conteinerização de ecossistemas completos via Docker Compose e deploy na nuvem
@@ -100,7 +97,7 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 - Versionamento de código com Git/GitHub
 
 ### Segurança
-- Controle de acesso baseado em perfis (RBAC)
+- Controle de acesso baseado em perfis (RBAC) com Keycloak
 - Autenticação e autorização com OAuth2 / JWT
 - Proteção de rotas sensíveis e validação de requisições
 
@@ -121,16 +118,6 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnrq-op&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
----
-
-## 🎯 Próximos Passos
-
-- [ ] Consolidar portfólio corporativo com projetos de sistemas distribuídos
-- [ ] Aprofundar em Kubernetes e orquestração de containers
-- [ ] Obter certificação AWS Solutions Architect Associate
-- [ ] Explorar ferramentas de observabilidade
-- [ ] Contribuir ativamente em projetos open-source
 
 ---
 
