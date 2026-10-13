@@ -14,9 +14,9 @@
 
 ## 🎯 Sobre Mim
 
-Sou um desenvolvedor backend em formação, apaixonado por construir sistemas robustos e escaláveis. Com formação técnica em Informática e atualmente graduando em **Tecnologia em Sistemas para Internet** no IF Goiano, tenho dedicado meu tempo a dominar o ecossistema Java e as melhores práticas de desenvolvimento.
+Sou um desenvolvedor backend apaixonado por construir sistemas robustos, escaláveis e distribuídos. Com formação técnica em Informática e atualmente graduando em **Tecnologia em Sistemas para Internet** no IF Goiano, tenho dedicado meu tempo a dominar o ecossistema Java, arquiteturas modernas e microsserviços.
 
-Minha trajetória começou com fundamentos sólidos de hardware e lógica de programação. Hoje, transformo essa base prática no desenvolvimento de sistemas de alto nível, construindo **APIs RESTful seguras e escaláveis** com Spring Boot, aplicando padrões de arquitetura, garantindo qualidade através de testes automatizados e aplicando práticas de **DevOps e Cloud Computing** para conteinerizar e realizar o deploy de aplicações em nuvem.
+Minha trajetória começou com fundamentos sólidos de hardware e lógica de programação. Hoje, transformo essa base prática no desenvolvimento de sistemas de alto nível, construindo **APIs RESTful e ecossistemas de microsserviços seguros e escaláveis** com Spring Boot, aplicando padrões de arquitetura, comunicação síncrona (OpenFeign) e assíncrona (Kafka), autenticação centralizada com Keycloak, garantia de qualidade através de testes automatizados e práticas de **DevOps e Cloud Computing**.
 
 **Objetivo:** Conquistar minha primeira oportunidade como desenvolvedor Junior, adquirir experiência prática e evoluir continuamente na carreira.
 
@@ -30,10 +30,13 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 ![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Kafka](https://img.shields.io/badge/Spring%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Segurança & Autenticação
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-007ACC?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ### Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,6 +44,8 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 
 ### Infraestrutura & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,14 +53,15 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 ### Testes & Qualidade
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-3FB92D?style=for-the-badge&logo=mockito&logoColor=white)
+![MockMvc](https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Arquitetura & Padrões
-- ✅ Arquitetura em Camadas
-- ✅ Padrão DAO (Data Access Object)
-- ✅ Clean Code
-- ✅ OWASP Top 10
-- ✅ Microsserviços (em aprendizado)
-- ✅ Spring Cloud (em aprendizado)
+- ✅ Arquitetura de Microsserviços & Monorepo
+- ✅ Arquitetura Orientada a Eventos (Apache Kafka)
+- ✅ Comunicação Síncrona (OpenFeign) & Assíncrona
+- ✅ Arquitetura em Camadas & Padrão DAO/DTO
+- ✅ Clean Code & Princípios SOLID
+- ✅ Segurança Centralizada (Keycloak, OAuth2 & JWT)
 
 ---
 
@@ -72,41 +78,41 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
   - Integração com AWS (EC2, RDS)
 
 ### Tecnologias em Aprendizado
-- 🚀 Kafka / RabbitMQ (Mensageria)
 - 🚀 Kubernetes (Orquestração de containers)
+- 🚀 Arquiteturas Cloud Avançadas & Observabilidade (Prometheus/Grafana)
 - 🚀 Certificações profissionais (AWS, Oracle)
 
 ---
 
 ## 💡 Diferenciais
 
-- 🤖 Utilizo IA como ferramenta de aprendizado e produtividade
-- 📊 Cobertura de testes: ~80% em projetos pessoais
-- 🔒 Conhecimento em segurança (OWASP Top 10, JWT, OAuth2)
-- 🏗️ Experiência com arquitetura em camadas e padrões de design
-- 📈 Mentalidade de aprendizado contínuo e evolução profissional
-- 🐳 Experiência com containerização de ambientes completos, práticas de DevOps e deploy na nuvem
+- 🤖 Utilizo IA como ferramenta de aprendizado e produtividade para acelerar entregas
+- 📊 Alta cobertura de testes unitários e de integração em projetos pessoais
+- 🔒 Sólido conhecimento em segurança (OAuth2, Keycloak, JWT e proteção de rotas)
+- 🏗️ Experiência prática na construção de sistemas distribuídos e microsserviços
+- 📈 Mentalidade de aprendizado contínuo e busca por excelência técnica
+- 🐳 Experiência com conteinerização de ecossistemas completos via Docker Compose e deploy na nuvem
 
 ---
 
 ## 🎓 Conhecimentos Complementares
 
 ### Metodologias & Práticas
-- Clean Code e boas práticas de desenvolvimento
-- Testes de integração
-- Documentação técnica com Swagger/OpenAPI
+- Clean Code, boas práticas e separação de responsabilidades
+- Testes automatizados (Unitários, Integração, Repositório e Controller com MockMvc)
+- Documentação técnica e modelagem de arquitetura (Diagramas em Mermaid)
 - Versionamento de código com Git/GitHub
 
 ### Segurança
-- Controle de acesso e proteção de rotas
-- Autenticação com JWT e OAuth2
-- Validação de entrada e proteção contra vulnerabilidades OWASP
+- Controle de acesso baseado em perfis (RBAC) com Keycloak
+- Autenticação e autorização com OAuth2 / JWT
+- Proteção de rotas sensíveis e validação de requisições
 
 ### Cloud & Infraestrutura
 - AWS: EC2, RDS, ECR
-- Docker: Containerização de aplicações (Multi-stage builds) e ambientes locais
-- Práticas de DevOps e implantação de aplicações em nuvem
-- Monitoramento de aplicações
+- Docker & Docker Compose: Conteinerização de ecossistemas multi-container (Kafka, MinIO, Keycloak, Bancos de Dados)
+- Armazenamento de objetos em nuvem (MinIO / S3)
+- Práticas de DevOps e implantação local/remota
 
 ---
 
@@ -124,12 +130,11 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 
 ## 🎯 Próximos Passos
 
-- [ ] Consolidar portfólio com 3-5 projetos destacados
+- [ ] Consolidar portfólio corporativo com projetos de sistemas distribuídos
 - [ ] Aprofundar em Kubernetes e orquestração de containers
-- [ ] Explorar Kafka/RabbitMQ para sistemas distribuídos
 - [ ] Obter certificação AWS Solutions Architect Associate
-- [ ] Contribuir em projetos open-source
-- [ ] Explorar cibersegurança aplicada a backend
+- [ ] Explorar ferramentas de observabilidade (Micrometer, Prometheus, Grafana)
+- [ ] Contribuir ativamente em projetos open-source
 
 ---
 
